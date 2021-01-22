@@ -21,6 +21,7 @@
 	- Accelerometer
 	- Magnetometr
 	- Deflection Sensor
+	- Potentiometer
 - Atmel AVR microcontroller
 - LCD display
 - 3D printed body
