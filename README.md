@@ -13,6 +13,18 @@
 ![arm movement scanner](https://github.com/KonradSosna/Robotic-Arm/blob/main/img/arm.png)
 ![arm movement scanner](https://github.com/KonradSosna/Robotic-Arm/blob/main/img/3Dscanner.jpg)
 
+##Main  Components
+
+- Servos
++ Sensors
+	- Gyroscope
+	- Accelerometer
+	- Magnetometr
+	- Deflection Sensor
+- Atmel AVR microcontroller
+- LCD display
+- 3D printed body
+
 #Source code:
 
 ```C
